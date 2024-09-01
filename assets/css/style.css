@@ -1,0 +1,45 @@
+body{
+padding-top: 80px;
+}
+
+.contenedor {
+    background: darkgrey;
+    width: 280px;
+    height: 280px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5%;
+    padding: 20px;
+  }
+  .contenedor h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+  }
+  .contenedor p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+  }
+  button {
+    margin: 10px;
+    width: 170px;
+    color: white;
+    background-color: rgb(35, 190, 187);
+    height: 30px;
+  }
+  .contenedorgrafica {
+    text-align: center;
+  }
+  .contenedorgeneral {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+
+  }
+  .grafica {
+    width: 600px;
+    height: 400px;
+  }
